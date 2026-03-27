@@ -221,6 +221,7 @@ curl http://localhost:8080/metrics
 You should see Prometheus-formatted metrics including `http_requests_total`, `http_request_duration_seconds`, and `appointments_total`.
 
 If Prometheus is running from the cloud-migration-infra setup, the ServiceMonitor will automatically start scraping these metrics.
+![image](image-7.png)
 
 ### Step 9 — Make a Change and Watch the Pipeline
 
