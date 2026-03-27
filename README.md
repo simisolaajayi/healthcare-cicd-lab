@@ -98,6 +98,7 @@ kubectl version --client
 ### Step 1 — Fork and Clone the Repository
 
 1. Fork this repository to your own GitHub account
+![alt text](image.png)
 2. Clone your fork:
 
 ```bash
