@@ -182,6 +182,7 @@ kubectl get svc -n meditrack
 ```
 
 Copy the `EXTERNAL-IP` of the LoadBalancer and open it in your browser. You should see the MediTrack dashboard showing registered patients and upcoming appointments.
+![images](image-6.png)
 
 ### Step 7 — Test the API
 
