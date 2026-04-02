@@ -1,6 +1,6 @@
 # Healthcare CI/CD Lab — MediTrack Patient Appointment System
 
-A real-world CI/CD lab built around **MediTrack**, a patient appointment management API for a healthcare company. Students build and deploy the application through a fully automated GitHub Actions pipeline that includes testing, Docker image publishing, and Kubernetes deployment.
+A rreal-world CI/CD lab built around **MediTrack**, a patient appointment management API for a healthcare company. Students build and deploy the application through a fully automated GitHub Actions pipeline that includes testing, Docker image publishing, and Kubernetes deployment.
 
 ## Scenario
 
